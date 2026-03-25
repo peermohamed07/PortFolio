@@ -16,33 +16,33 @@ function Contact() {
           <FontAwesomeIcon icon={faPhone} className="text-green-300 text-[1.5rem]" />
           <div>
             <h5 className="text-lg font-semibold">Phone</h5>
-            <p className="">+91 7092151614</p>
+            <p className="">+91 9360572941</p>
           </div>
         </a>
 
-        <a href='mailto:satish25152@gmail.com' target="_blank" className="flex items-center gap-4 w-[17rem]">
+        <a href='mailto:peermohamed8558@gmail.com' target="_blank" className="flex items-center gap-4 w-[17rem]">
           <FontAwesomeIcon icon={faEnvelope} className="text-orange-500 text-[1.5rem]" />
           <div>
             <h5 className="text-lg font-semibold">Email</h5>
-            <p className="">satish25152@gmail.com</p>
+            <p className="">peermohamed8558@gmail.com</p>
           </div>
         </a>
 
-        <a href='https://www.linkedin.com/in/satish-v-profile' target='_blank' className="flex items-center gap-4 w-[17rem]">
+        <a href='https://www.linkedin.com/in/peer-mohamed-a7649228a' target='_blank' className="flex items-center gap-4 w-[17rem]">
           <FontAwesomeIcon icon={faLinkedin} className="text-blue-500 text-[1.5rem]" />
           <div>
             <h5 className="text-lg font-semibold">LinkedIn</h5>
-            <p className="">linkedin.com/in/satish-v-profile</p>
+            <p className="">https://www.linkedin.com/in/peer-mohamed-a7649228a</p>
           </div>
         </a>
 
-        <a href='https://github.com/satish25152' target='_blank' className="flex items-center gap-4 w-[17rem]">
+        {/* <a href='https://github.com/satish25152' target='_blank' className="flex items-center gap-4 w-[17rem]">
           <FontAwesomeIcon icon={faGithub} className="text-[1.5rem]" />
           <div>
             <h5 className="text-lg font-semibold">GitHub</h5>
             <p className="">github.com/satish25152</p>
           </div>
-        </a>
+        </a> */}
       </div>
     </div>
   );

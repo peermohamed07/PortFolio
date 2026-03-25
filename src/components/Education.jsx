@@ -5,13 +5,13 @@ function Education() {
   const education = [
     {
       title: 'Master of Computer Applications',
-      institution: 'Mepco Schlenk Engineering College',
-      duration: '2022 – 2024'
+      institution: 'Alagappa University',
+      duration: '2024 – 2026'
     },
     {
       title: 'Bachelor of Computer Science',
-      institution: 'NMSS Vellaichamy Nadar College',
-      duration: '2019 – 2022'
+      institution: 'Sadakathullah Appa College',
+      duration: '2018 – 2021'
     }
   ]
 

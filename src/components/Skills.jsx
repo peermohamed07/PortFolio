@@ -1,9 +1,9 @@
 import { faGears } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import ReactImg from '../assets/React.png'
-import FlutterImg from '../assets/Flutter.png'
-import PhpImg from '../assets/PHP.png'
-import PostgreSQLImg from '../assets/Postgresql.png'
+import JavascriptImg from '../assets/JavaScript.png'
+import HTMLImg from '../assets/Html5.png'
+import CSSImg from '../assets/CSS.png'
 
 function Skills() {
   const skills = [
@@ -12,16 +12,20 @@ function Skills() {
       image: ReactImg
     },
     {
-      title: 'Flutter',
-      image: FlutterImg
+      title: 'React Native',
+      image: ReactImg
     },
     {
-      title: 'PHP',
-      image: PhpImg
+      title: 'Javascript',
+      image: JavascriptImg
     },
     {
-      title: 'PostgreSQL',
-      image: PostgreSQLImg
+      title: 'HTML5',
+      image: HTMLImg
+    },
+    {
+      title: 'CSS3',
+      image: CSSImg
     }
   ]
 

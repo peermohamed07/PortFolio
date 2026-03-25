@@ -5,15 +5,15 @@ function Experience() {
   const experiences = [
     {
       section: 'Experience',
-      title: 'Full Stack Developer',
-      company: 'Aiimtech Software System',
-      duration: 'Jun 2024 - Jun 2025'
+      title: 'Front-End Developer (React JS & React Native)',
+      company: 'AutoSec NextGen Pvt Ltd',
+      duration: 'Mar 2025 - Present'
     },
     {
-      section: 'Internship',
-      title: 'Junior Developer',
-      company: 'Aiimtech Software System',
-      duration: 'Dec 2023 - May 2024'
+      section: 'Experience',
+      title: 'Front-End Developer (React JS)',
+      company: 'NetCom Computer Pvt Ltd',
+      duration: 'Jan 2023 - Sep 2024'
     }
   ]
 
