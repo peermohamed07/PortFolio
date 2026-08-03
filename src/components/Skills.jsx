@@ -4,7 +4,8 @@ import ReactImg from '../assets/React.png'
 import JavascriptImg from '../assets/JavaScript.png'
 import HTMLImg from '../assets/Html5.png'
 import CSSImg from '../assets/CSS.png'
-
+import POSTGRESQL from '../assets/Postgresql.png'
+import NODEJS from '../assets/node.png'
 function Skills() {
   const skills = [
     {
@@ -26,7 +27,15 @@ function Skills() {
     {
       title: 'CSS3',
       image: CSSImg
-    }
+    },
+     {
+      title: 'POSTGRESQL',
+      image: POSTGRESQL
+    },
+    {
+      title: 'NODEJS',
+      image: NODEJS
+    },
   ]
 
   return (

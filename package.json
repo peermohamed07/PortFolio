@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Satish25152.github.io/portfolio",
+  "homepage": "https://peermohamed07.github.io/PortFolio",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/Satish25152/portfolio.git"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",

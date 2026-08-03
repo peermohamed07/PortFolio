@@ -34,15 +34,18 @@ function Contact() {
             <h5 className="text-lg font-semibold">LinkedIn</h5>
             <p className="">https://www.linkedin.com/in/peer-mohamed-a7649228a</p>
           </div>
+
         </a>
 
-        {/* <a href='https://github.com/satish25152' target='_blank' className="flex items-center gap-4 w-[17rem]">
+        <a href='https://github.com/peermohamed07/PortFolio' target='_blank' className="flex items-center gap-4 w-[17rem]">
           <FontAwesomeIcon icon={faGithub} className="text-[1.5rem]" />
           <div>
+
             <h5 className="text-lg font-semibold">GitHub</h5>
-            <p className="">github.com/satish25152</p>
+            <p className="">github.com/peermohamed07/PortFolio</p>
           </div>
-        </a> */}
+        </a>
+      
       </div>
     </div>
   );
